@@ -1,0 +1,1 @@
+{"_id":{"$oid":"62fa37519c0997554fe58c4c"},"Offered_by_id":{"$oid":"62fa36479c0997554fe58c4b"},"Vaccine_name":"BCG","Vaccine_code":1234.0,"Time":{"$date":"2022-08-15T12:08:39.771Z"},"Description":{"Used_for":"ADasdasdasdas","For_Disease":"asdsadas","Diagnosis":"asdasdasd"}}
